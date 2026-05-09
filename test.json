@@ -6,17 +6,21 @@
 Multi-Agents LLM Financial Trading Framework
 标签: #金融交易
 
+
 2 <a href="[GitHub - ruvnet/ruflo: The leading agent orchestration platform for Claud](https://github.com/ruvnet/ruflo)">[ruvnet/ruflo]</a>
 The leading agent orchestration platform for Claude
 标签: #Agent编排
+
 
 3 <a href="[GitHub - mattpocock/skills: Skills for Real Engineers from Claude directory](https://github.com/mattpocock/skills)">[mattpocock/skills]</a>
 Skills for Real Engineers from Claude directory
 标签: #Prompt工程
 
+
 4 <a href="[GitHub - warpdotdev/warp: An agentic development environment](https://github.com/warpdotdev/warp)">[warpdotdev/warp]</a>
 An agentic development environment
 标签: #开发工具
+
 
 5 <a href="[GitHub - LearningCircuit/local-deep-research: Local deep research tool for AI](https://github.com/LearningCircuit/local-deep-research)">[LearningCircuit/local-deep-research]</a>
 Local deep research tool for AI
@@ -24,31 +28,40 @@ Local deep research tool for AI
 
 
 
+
 🌐 [Tech/News] 科技热门
 
-1 <a href="[HN - People Hate AI Art](https://mccue.dev/pages/5-8-26-ai-art)">[People Hate AI Art]</a>
-标签: #AI
-
-2 <a href="[HN - Tesla Model Y Passes NHTSA's New 'Advanced Driver ](https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests)">[Tesla Model Y Passes NHTSA's N]</a>
+1 <a href="[HN - Tesla Model Y Passes NHTSA's New 'Advanced Driver ](https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests)">[Tesla Model Y Passes NHTSA's N]</a>
 标签: #Tech
 
-3 <a href="[HN - Meta Shuts Down End-to-End Encryption for Instagra](https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging)">[Meta Shuts Down End-to-End Enc]</a>
+
+2 <a href="[HN - Meta Shuts Down End-to-End Encryption for Instagra](https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging)">[Meta Shuts Down End-to-End Enc]</a>
 标签: #Tech
 
-4 <a href="[HN - Non-determinism is an issue with patching CVEs](https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/)">[Non-determinism is an issue wi]</a>
+
+3 <a href="[HN - Non-determinism is an issue with patching CVEs](https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/)">[Non-determinism is an issue wi]</a>
 标签: #Tech
 
-5 <a href="[HN - Mux (YC W16) Is Hiring](https://www.mux.com/jobs)">[Mux (YC W16) Is Hiring]</a>
+
+4 <a href="[HN - Mux (YC W16) Is Hiring](https://www.mux.com/jobs)">[Mux (YC W16) Is Hiring]</a>
 标签: #Tech
 
-6 <a href="[HN - When is your birthday? The math behind hash collis](https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html)">[When is your birthday? The mat]</a>
+
+5 <a href="[HN - When is your birthday? The math behind hash collis](https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html)">[When is your birthday? The mat]</a>
 标签: #Tech
 
-7 <a href="[HN - Roadside Attraction](https://theoffingmag.com/essay/roadside-attraction/)">[Roadside Attraction]</a>
+
+6 <a href="[HN - Roadside Attraction](https://theoffingmag.com/essay/roadside-attraction/)">[Roadside Attraction]</a>
 标签: #Tech
 
-8 <a href="[HN - You gave me a u32. I gave you root. (io_uring ZCRX](https://ze3tar.github.io/post-zcrx.html)">[You gave me a u32. I gave you ]</a>
+
+7 <a href="[HN - You gave me a u32. I gave you root. (io_uring ZCRX](https://ze3tar.github.io/post-zcrx.html)">[You gave me a u32. I gave you ]</a>
 标签: #Tech
+
+
+8 <a href="[HN - Google broke reCAPTCHA for de-googled Android user](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users)">[Google broke reCAPTCHA for de-]</a>
+标签: #Tech
+
 
 
 
@@ -57,11 +70,16 @@ Local deep research tool for AI
 1 <a href="[Research - Teaching Claude Why - Anthropic研究](https://www.anthropic.com/research/teaching-claude-why)">[Teaching Claude Why - Anthropi]</a>
 标签: #Research
 
+
 2 <a href="[Research - AI is breaking two vulnerability cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)">[AI is breaking two vulnerabili]</a>
 标签: #Research
 
+
 3 <a href="[Research - Can LLMs model real-world systems in TLA+?](https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/)">[Can LLMs model real-world syst]</a>
 标签: #Research
+
+
+
 
 📈 趋势总结
 • Agent开发工具持续爆发 - 多智能体编排成热点
