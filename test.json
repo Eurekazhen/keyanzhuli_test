@@ -1,90 +1,59 @@
 📊 每日AI科研速递 — 2026年05月09日
 
 🔥 [LLM/Agent] 开源项目精选
-1 <a href="[多智能体金融交易框架](https://github.com/TauricResearch/TradingAgents)">[多智能体金融交易框架](https://github.com/TauricResearch/TradingAgents)</a>
+1 <a href="[GitHub - TauricResearch/TradingAgents: Multi-Agents LLM Financial Trading Framework](https://github.com/TauricResearch/TradingAgents)">[TauricResearch/TradingAgents]</a>
 Multi-Agents LLM Financial Trading Framework
 标签: #Agent #开源
 
-2 <a href="[领先的多智能体编排平台](https://github.com/ruvnet/ruflo)">[领先的多智能体编排平台](https://github.com/ruvnet/ruflo)</a>
+2 <a href="[GitHub - ruvnet/ruflo: The leading agent orchestration platform for Claud](https://github.com/ruvnet/ruflo)">[ruvnet/ruflo]</a>
 The leading agent orchestration platform for Claude
 标签: #Agent #开源
 
-3 <a href="[工程师真实可用技能集](https://github.com/mattpocock/skills)">[工程师真实可用技能集](https://github.com/mattpocock/skills)</a>
+3 <a href="[GitHub - mattpocock/skills: Skills for Real Engineers from Claude directory](https://github.com/mattpocock/skills)">[mattpocock/skills]</a>
 Skills for Real Engineers from Claude directory
 标签: #Agent #开源
 
-4 <a href="[智能开发终端环境](https://github.com/warpdotdev/warp)">[智能开发终端环境](https://github.com/warpdotdev/warp)</a>
+4 <a href="[GitHub - warpdotdev/warp: An agentic development environment, born out of th](https://github.com/warpdotdev/warp)">[warpdotdev/warp]</a>
 An agentic development environment, born out of the terminal
 标签: #Agent #开源
 
-5 <a href="[本地深度研究工具](https://github.com/LearningCircuit/local-deep-research)">[本地深度研究工具](https://github.com/LearningCircuit/local-deep-research)</a>
+5 <a href="[GitHub - LearningCircuit/local-deep-research: Local deep research tool for AI](https://github.com/LearningCircuit/local-deep-research)">[LearningCircuit/local-deep-research]</a>
 Local deep research tool for AI
 标签: #Agent #开源
 
-🧠 [LLM/Paper] 热门论文
-1 <a href="[ActCam: Zero-Shot Joint Camera and 3D Motion Control for Vid](https://arxiv.org/abs/2605.06667v1)">[ActCam: Zero-Shot Joint Camera and 3D Motion Control for Vid](https://arxiv.org/abs/2605.06667v1)</a>
-标签: #AI #Paper
-
-2 <a href="[UniPool: A Globally Shared Expert Pool for Mixture-of-Expert](https://arxiv.org/abs/2605.06665v1)">[UniPool: A Globally Shared Expert Pool for Mixture-of-Expert](https://arxiv.org/abs/2605.06665v1)</a>
-标签: #AI #Paper
-
-3 <a href="[BAMI: Training-Free Bias Mitigation in GUI Grounding](https://arxiv.org/abs/2605.06664v1)">[BAMI: Training-Free Bias Mitigation in GUI Grounding](https://arxiv.org/abs/2605.06664v1)</a>
-标签: #AI #Paper
-
-4 <a href="[Verifier-Backed Hard Problem Generation for Mathematical Rea](https://arxiv.org/abs/2605.06660v1)">[Verifier-Backed Hard Problem Generation for Mathematical Rea](https://arxiv.org/abs/2605.06660v1)</a>
-标签: #AI #Paper
-
-5 <a href="[Optimizer-Model Consistency: Full Finetuning with the Same O](https://arxiv.org/abs/2605.06654v1)">[Optimizer-Model Consistency: Full Finetuning with the Same O](https://arxiv.org/abs/2605.06654v1)</a>
-标签: #AI #Paper
-
-6 <a href="[When No Benchmark Exists: Validating Comparative LLM Safety ](https://arxiv.org/abs/2605.06652v1)">[When No Benchmark Exists: Validating Comparative LLM Safety ](https://arxiv.org/abs/2605.06652v1)</a>
-标签: #AI #Paper
-
-7 <a href="[AI Co-Mathematician: Accelerating Mathematicians with Agenti](https://arxiv.org/abs/2605.06651v1)">[AI Co-Mathematician: Accelerating Mathematicians with Agenti](https://arxiv.org/abs/2605.06651v1)</a>
-标签: #AI #Paper
-
-8 <a href="[Superintelligent Retrieval Agent: The Next Frontier of Infor](https://arxiv.org/abs/2605.06647v1)">[Superintelligent Retrieval Agent: The Next Frontier of Infor](https://arxiv.org/abs/2605.06647v1)</a>
-标签: #AI #Paper
-
-9 <a href="[Are We Making Progress in Multimodal Domain Generalization? ](https://arxiv.org/abs/2605.06643v1)">[Are We Making Progress in Multimodal Domain Generalization? ](https://arxiv.org/abs/2605.06643v1)</a>
-标签: #AI #Paper
-
-10 <a href="[StraTA: Incentivizing Agentic Reinforcement Learning with St](https://arxiv.org/abs/2605.06642v1)">[StraTA: Incentivizing Agentic Reinforcement Learning with St](https://arxiv.org/abs/2605.06642v1)</a>
-标签: #AI #Paper
-
 🌐 [Tech/News] 科技热门
-1 <a href="[I built GitHub Store to 12,500 stars in 6 months – I started](https://github-store.org/blog/how-i-built-github-store/)">[I built GitHub Store to 12,500 stars in 6 months – I started](https://github-store.org/blog/how-i-built-github-store/)</a>
+1 <a href="[HN - I built GitHub Store to 12,500 stars in 6 months –](https://github-store.org/blog/how-i-built-github-store/)">[I built GitHub Store to 12,500]</a>
 标签: #Tech
 
-2 <a href="[Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance](https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests)">[Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance](https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests)</a>
+2 <a href="[HN - Tesla Model Y Passes NHTSA's New 'Advanced Driver ](https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests)">[Tesla Model Y Passes NHTSA's N]</a>
 标签: #Tech
 
-3 <a href="[Compound drivers of Antarctic sea ice loss and Southern Ocea](https://www.science.org/doi/10.1126/sciadv.aeb0166)">[Compound drivers of Antarctic sea ice loss and Southern Ocea](https://www.science.org/doi/10.1126/sciadv.aeb0166)</a>
+3 <a href="[HN - Compound drivers of Antarctic sea ice loss and Sou](https://www.science.org/doi/10.1126/sciadv.aeb0166)">[Compound drivers of Antarctic ]</a>
 标签: #Tech
 
-4 <a href="[Meta Shuts Down End-to-End Encryption for Instagram Messagin](https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging)">[Meta Shuts Down End-to-End Encryption for Instagram Messagin](https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging)</a>
+4 <a href="[HN - Meta Shuts Down End-to-End Encryption for Instagra](https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging)">[Meta Shuts Down End-to-End Enc]</a>
 标签: #Tech
 
-5 <a href="[Non-determinism is an issue with patching CVEs](https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/)">[Non-determinism is an issue with patching CVEs](https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/)</a>
+5 <a href="[HN - Non-determinism is an issue with patching CVEs](https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/)">[Non-determinism is an issue wi]</a>
 标签: #Tech
 
-6 <a href="[Mux (YC W16) Is Hiring](https://www.mux.com/jobs)">[Mux (YC W16) Is Hiring](https://www.mux.com/jobs)</a>
+6 <a href="[HN - Mux (YC W16) Is Hiring](https://www.mux.com/jobs)">[Mux (YC W16) Is Hiring]</a>
 标签: #Tech
 
-7 <a href="[When is your birthday? The math behind hash collisions](https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html)">[When is your birthday? The math behind hash collisions](https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html)</a>
+7 <a href="[HN - When is your birthday? The math behind hash collis](https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html)">[When is your birthday? The mat]</a>
 标签: #Tech
 
-8 <a href="[Roadside Attraction](https://theoffingmag.com/essay/roadside-attraction/)">[Roadside Attraction](https://theoffingmag.com/essay/roadside-attraction/)</a>
+8 <a href="[HN - Roadside Attraction](https://theoffingmag.com/essay/roadside-attraction/)">[Roadside Attraction]</a>
 标签: #Tech
 
 📰 [AI/Research] 技术博客
-1 <a href="[Teaching Claude Why - Anthropic研究](https://www.anthropic.com/research/teaching-claude-why)">[Teaching Claude Why - Anthropic研究](https://www.anthropic.com/research/teaching-claude-why)</a>
+1 <a href="[Research - Teaching Claude Why - Anthropic研究](https://www.anthropic.com/research/teaching-claude-why)">[Teaching Claude Why - Anthropi]</a>
 标签: #AI #Research
 
-2 <a href="[AI is breaking two vulnerability cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)">[AI is breaking two vulnerability cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)</a>
+2 <a href="[Research - AI is breaking two vulnerability cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)">[AI is breaking two vulnerabili]</a>
 标签: #AI #Research
 
-3 <a href="[Can LLMs model real-world systems in TLA+?](https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/)">[Can LLMs model real-world systems in TLA+?](https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/)</a>
+3 <a href="[Research - Can LLMs model real-world systems in TLA+?](https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/)">[Can LLMs model real-world syst]</a>
 标签: #AI #Research
 
 📈 趋势总结
