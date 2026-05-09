@@ -1,36 +1,68 @@
 📊 每日AI科研速递 — 2026年05月09日
-今日热点: Agent工具 + 长程上下文
+今日热点: Agent工具 + 长程上下文 | 视频生成 | 多模态
 
 ---
 
-🔥 GitHub Trending
+🔥 GitHub Trending (推荐项目)
 
 [多智能体金融交易框架](https://github.com/TauricResearch/TradingAgents)
 Multi-Agents LLM Financial Trading Framework | ⭐ 14K+
 
----
 
 [领先的多智能体编排平台](https://github.com/ruvnet/ruflo)
 The leading agent orchestration platform for Claude | ⭐ 12K+
 
----
 
 [工程师真实可用技能集](https://github.com/mattpocock/skills)
 Skills for Real Engineers from Claude directory | ⭐ 17K+
 
----
 
 [智能开发终端环境](https://github.com/warpdotdev/warp)
 An agentic development environment, born out of the terminal | ⭐ 9K+
 
----
 
 [本地深度研究工具](https://github.com/LearningCircuit/local-deep-research)
 Local deep research tool for AI | ⭐ 2K+
 
+
+---
+
+🧠 arXiv 最新AI论文 (10篇)
+
+1. [[2605.06667v1] ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation](https://arxiv.org/abs/2605.06667v1)
+
+
+2. [[2605.06665v1] UniPool: A Globally Shared Expert Pool for Mixture-of-Experts](https://arxiv.org/abs/2605.06665v1)
+
+
+3. [[2605.06664v1] BAMI: Training-Free Bias Mitigation in GUI Grounding](https://arxiv.org/abs/2605.06664v1)
+
+
+4. [[2605.06660v1] Verifier-Backed Hard Problem Generation for Mathematical Reasoning](https://arxiv.org/abs/2605.06660v1)
+
+
+5. [[2605.06654v1] Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less](https://arxiv.org/abs/2605.06654v1)
+
+
+6. [[2605.06652v1] When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels](https://arxiv.org/abs/2605.06652v1)
+
+
+7. [[2605.06651v1] AI Co-Mathematician: Accelerating Mathematicians with Agentic AI](https://arxiv.org/abs/2605.06651v1)
+
+
+8. [[2605.06647v1] Superintelligent Retrieval Agent: The Next Frontier of Information Retrieval](https://arxiv.org/abs/2605.06647v1)
+
+
+9. [[2605.06643v1] Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study](https://arxiv.org/abs/2605.06643v1)
+
+
+10. [[2605.06642v1] StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction](https://arxiv.org/abs/2605.06642v1)
+
+
 ---
 
 📈 趋势总结
-• Agent开发工具持续爆发
-• 多Agent编排成为热点
-• 上下文管理有新突破
+• Agent开发工具持续爆发 - 多智能体编排成为热点
+• 视频生成控制 - ActCam等Camera Control新论文
+• MoE架构 - UniPool全局共享专家池
+• 数学推理 - Benchmarkless评估新思路
