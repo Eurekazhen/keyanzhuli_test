@@ -1,1 +1,39 @@
-{"content": "📊 每日AI科研速递 — 2026年05月12日\n今日热点: Agent工具 + 推理加速 + 本地部署\n\n🔥 [LLM/Agent] 开源项目精选\n1 [strukto-ai/mirage](https://github.com/strukto-ai/mirage)\nA Unified Virtual Filesystem For AI Agents\n标签: agent-sandbox,agent-tools | ⭐1934\n\n2 [aattaran/deepclaude](https://github.com/aattaran/deepclaude)\nUse Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any\n标签: AI | ⭐1773\n\n3 [yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts)\nYao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景\n标签: ai,chinese-prompts | ⭐1625\n\n4 [huangserva/3DCellForge](https://github.com/huangserva/3DCellForge)\nAI-powered interactive 3D cell generation and exploration studio.\n标签: AI | ⭐1367\n\n5 [raiyanyahya/how-to-train-your-gpt](https://github.com/raiyanyahya/how-to-train-your-gpt)\nBuild a modern LLM from scratch. Every line commented. Explained like we are fiv\n标签: attention-mechanism,deep-learning | ⭐1007\n\n6 [lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed)\nTokenSpeed is a speed-of-light LLM inference engine.\n标签: blackwell,deepseek | ⭐945\n\n7 [zarazhangrui/beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates)\nA library of HTML slide templates designed so any coding agent can pick the righ\n标签: AI | ⭐861\n\n8 [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)\nAI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。\n标签: agentic-ai,ai-agents | ⭐849\n\n9 [thakur-works/DarkGPT](https://github.com/thakur-works/DarkGPT)\nDarkgpt mod free #chatgpt\n标签: chatgpt-bypass,chatgpt5 | ⭐532\n\n10 [Agent-3-7/hermes-agent-mission-control](https://github.com/Agent-3-7/hermes-agent-mission-control)\nMission Control Kanban for your Hermes Agent\n标签: AI | ⭐528\n\n🌐 [Tech/News] 科技热门\n1 [NVIDIA Blackwell新芯片](https://www.nvidia.com)\n标签: 硬件\n\n2 [OpenAI GPT-5 Rumors](https://openai.com)\n标签: LLM\n\n3 [Anthropic CWC更新](https://www.anthropic.com)\n标签: Agent\n\n📰 [AI/Research] 技术博客\n1 [Teaching AI to Reason](https://www.anthropic.com/research)\n标签: AI安全\n\n2 [Long Context Window](https://arxiv.org)\n标签: 上下文\n\n📈 趋势总结\n• Agent工具持续爆发\n• 推理效率成竞争焦点\n• 本地部署需求增长", "update_time": "2026-05-12"}
+📊 每日AI科研速递 — 2026年5月13日
+今日热点: Agent 框架持续火热，LLM 训练教程受欢迎
+
+---
+
+🔥 Agent 工具
+
+[Mirage - Unified Virtual Filesystem For AI Agents](https://github.com/strukto-ai/mirage)
+面向 AI Agent 的统一虚拟文件系统，支持在沙盒环境中安全执行 Agent 操作。项目采用 TypeScript 开发，集成了 LangChain、OpenAI Agents 等主流框架，提供了虚拟文件系统（FUSE）来隔离 Agent 的文件操作。标签: #AI_Agents #Agent_Tools #VFS
+
+---
+
+[Yao Open Prompts：中文 AI 提示词库](https://github.com/yaojingang/yao-open-prompts)
+中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景。项目收集了大量实用的中文 prompt 模板，帮助用户更好地使用 LLM。标签: #Prompt #中文 #提示词
+
+---
+
+[OpenSquilla — Token-Efficient AI Agent](https://github.com/opensquilla/opensquilla)
+高 Token 效率的 AI Agent，在相同预算下实现更高的智能密度。项目旨在优化 Agent 的 token 消耗，提升推理效率。标签: #Agent #Token_Efficiency #LLM
+
+---
+
+🔥 LLM 训练
+
+[How to Train Your GPT](https://github.com/raiyanyahya/how-to-train-your-gpt)
+从零构建现代 LLM 的完整教程，每行代码都有注释，用通俗易懂的方式解释 LLM 原理。非常适合学习 Transformer 和 LLM 训练细节。标签: #LLM #PyTorch #Tutorial #GPT
+
+---
+
+[Best of Algorithmic Trading](https://github.com/TitanFlow-Systems/best-of-algorithmic-trading)
+算法交易最佳资源列表，收集了量化交易领域的开源工具、框架、API、指标等资源。包括 Freqtrade、Hummingbot、Backtrader 等主流交易框架。标签: #Quant #Trading #Python #FinTech
+
+---
+
+📈 趋势总结
+• Agent 基础设施持续完善，虚拟文件系统、安全沙盒成为热点
+• 中文 AI 提示词库需求旺盛，本地化资源受追捧
+• LLM 训练教育类项目受欢迎，从零开始教程热度高
+• 量化交易持续火热，加密货币交易框架关注度高
