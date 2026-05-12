@@ -1,39 +1,105 @@
 📊 每日AI科研速递 — 2026年5月13日
-今日热点: Agent 框架持续火热，LLM 训练教程受欢迎
+今日热点: Agent 框架持续爆发，CoT 进入实用阶段
 
 ---
 
 🔥 Agent 工具
 
 [Mirage - Unified Virtual Filesystem For AI Agents](https://github.com/strukto-ai/mirage)
-面向 AI Agent 的统一虚拟文件系统，支持在沙盒环境中安全执行 Agent 操作。项目采用 TypeScript 开发，集成了 LangChain、OpenAI Agents 等主流框架，提供了虚拟文件系统（FUSE）来隔离 Agent 的文件操作。标签: #AI_Agents #Agent_Tools #VFS
+面向 AI Agent 的统一虚拟文件系统，支持在沙盒环境中安全执行 Agent 操作。采用 TypeScript 开发，集成了 LangChain、OpenAI Agents 等主流框架，通过 FUSE 实现文件隔离。标签: #AI_Agents #Agent_Tools #VFS #Sandbox
+⭐ 2002 | TypeScript
 
 ---
 
-[Yao Open Prompts：中文 AI 提示词库](https://github.com/yaojingang/yao-open-prompts)
-中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景。项目收集了大量实用的中文 prompt 模板，帮助用户更好地使用 LLM。标签: #Prompt #中文 #提示词
+[DeepClaude - Claude Code 自主 agent loop](https://github.com/aattaran/deepclaude)
+将 Claude Code 的自主 agent 循环与 DeepSeek V4 Pro、OpenRouter 或任意 LLM 结合使用。支持多模型切换，适合构建自己的 AI 助手。标签: #Claude #Agent #DeepSeek #OpenRouter
+⭐ 1790 | Python
 
 ---
 
-[OpenSquilla — Token-Efficient AI Agent](https://github.com/opensquilla/opensquilla)
-高 Token 效率的 AI Agent，在相同预算下实现更高的智能密度。项目旨在优化 Agent 的 token 消耗，提升推理效率。标签: #Agent #Token_Efficiency #LLM
+[Awesome Agentic AI ZH - AI Agent 中文学习地图](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
+AI Agent 中文学习地图，从零开始的结构化学习路径，三语对照（繁中/简中/English）。每个阶段有必修练习和阅读材料。标签: #Agent #学习路径 #中文
+⭐ 993
 
 ---
 
-🔥 LLM 训练
+[Hermes Agent Mission Control](https://github.com/Agent-3-7/hermes-agent-mission-control)
+面向 Hermes Agent 的 Mission Control Kanban 看板，管理 AI Agent 任务的 Dashboard。标签: #Agent #Kanban #Dashboard
+⭐ 539 | TypeScript
+
+---
+
+[Agent Skills Eval](https://github.com/darkrishabh/agent-skills-eval)
+AI Agent 技能评测框架，支持 agent skills 风格的测试运行器。标签: #Agent #Benchmark #Evaluation
+⭐ 443 | Python
+
+---
+
+🔥 大模型训练
 
 [How to Train Your GPT](https://github.com/raiyanyahya/how-to-train-your-gpt)
-从零构建现代 LLM 的完整教程，每行代码都有注释，用通俗易懂的方式解释 LLM 原理。非常适合学习 Transformer 和 LLM 训练细节。标签: #LLM #PyTorch #Tutorial #GPT
+从零构建现代 LLM 的完整教程，每行代码都有注释，用通俗易懂的方式解释 Transformer 和 LLM 原理。标签: #LLM #PyTorch #Tutorial #GPT
+⭐ 1060 | Jupyter
 
 ---
 
-[Best of Algorithmic Trading](https://github.com/TitanFlow-Systems/best-of-algorithmic-trading)
-算法交易最佳资源列表，收集了量化交易领域的开源工具、框架、API、指标等资源。包括 Freqtrade、Hummingbot、Backtrader 等主流交易框架。标签: #Quant #Trading #Python #FinTech
+[TokenSpeed - 光速 LLM 推理引擎](https://github.com/lightseekorg/tokenspeed)
+光速 LLM 推理引擎，专注于提升推理速度。标签: #LLM #Inference #Performance
+⭐ 958 | Python
+
+---
+
+[ChainReason - LLM DeFi 推理评测](https://github.com/joshawome/chainreason)
+评测 LLM 在以太坊和 DeFi 任务上的推理能力，专注于区块链领域。标签: #LLM #Reasoning #DeFi #Ethereum
+⭐ 511 | Python
+
+---
+
+🔥 CoT 应用
+
+[Solidity CoT Auditor](https://github.com/butthtio/solidity-cot-auditor)
+多层思维链（CoT）LLM 流水线，用于 Solidity 安全审计。标签: #CoT #Solidity #Security
+⭐ 506 | Python
+
+---
+
+[SPECA - Specification Checklist Auditor](https://github.com/NyxFoundation/speca)
+规范到检查表的 Agent 审计框架，系统化验证 AI 输出。标签: #Agent #Auditing #Framework
+⭐ 380 | Python
+
+---
+
+🔥 安全运营
+
+[AiSOC - AI 安全运营中心](https://github.com/beenuar/AiSOC)
+开源 AI 驱动的安全运营中心，集成告警融合、紫队防御自动化。标签: #AI #Security #SOC
+⭐ 487 | Python
+
+---
+
+🔥 创意/有趣项目
+
+[Photo-Agents - 自进化视觉 Agent](https://github.com/jmerelnyc/Photo-agents)
+自主自进化的视觉 Agent，基于视觉的层级记忆和自编程能力。标签: #Agent #Vision #Self-Evolving
+⭐ 368 | Python
+
+---
+
+[OpenPets - AI 编程 Agent 的桌面宠物](https://github.com/alvinunreal/openpets)
+为 AI 编码 Agent 带来桌面宠物，连接 Claude Code via MCP。标签: #Agent #MCP #Fun
+⭐ 300 | TypeScript
+
+---
+
+[Beautiful HTML Templates - Agent HTML 模板库](https://github.com/zarazhangrui/beautiful-html-templates)
+为编程 Agent 设计的 HTML 幻灯片模板库，让 Agent 能选到合适的模板。标签: #HTML #Template #Agent
+⭐ 961 | HTML
 
 ---
 
 📈 趋势总结
-• Agent 基础设施持续完善，虚拟文件系统、安全沙盒成为热点
-• 中文 AI 提示词库需求旺盛，本地化资源受追捧
-• LLM 训练教育类项目受欢迎，从零开始教程热度高
-• 量化交易持续火热，加密货币交易框架关注度高
+• Agent 基础设施爆发：虚拟文件系统、安全沙盒、任务看板成热点
+• CoT 进入实用阶段：安全审计、智能体验等垂直场景落地
+• 中文学习资源丰富：awesome-agentic-ai-zh 获得高星
+• 自进化 Agent 出现：Photo-Agents 能自主学习和编程
+• AI 安全受关注：AiSOC 等安全运营产品涌现
