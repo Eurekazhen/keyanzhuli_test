@@ -1,63 +1,58 @@
 📊 每日AI科研速递 — 2026年05月13日
-今日热点: Agent工具 + 推理加速 + 本地部署
+今日热点: Agent工具 + 新项目速递
 
-🔥 [LLM/Agent] 开源项目精选
+🔥 [LLM/Agent] 最新开源项目
 
-1 [strukto-ai/mirage](https://github.com/strukto-ai/mirage)
-A Unified Virtual Filesystem For AI Agents
-标签: agent-sandbox,agent-tools | ⭐2065
+1 [sno-ai/llmix](https://github.com/sno-ai/llmix)
+Production LLM call layer for AI agents and tools: keep OpenAI/Anthrop
+标签: ai-agents,ai-sdk | ⭐30
 
-2 [yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts)
-Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景
-标签: ai,chinese-prompts | ⭐1833
+2 [thakur-works/DarkGPT](https://github.com/thakur-works/DarkGPT)
+Darkgpt mod free #chatgpt
+标签: chatgpt-bypass,chatgpt5 | ⭐532
 
-3 [aattaran/deepclaude](https://github.com/aattaran/deepclaude)
-Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any
-标签: AI | ⭐1805
+3 [LYiHub/OpenClaw-AWD-Arena](https://github.com/LYiHub/OpenClaw-AWD-Arena)
+An automated Attack-with-Defense platform where LLM-powered agents com
+标签: AI | ⭐165
 
-4 [huangserva/3DCellForge](https://github.com/huangserva/3DCellForge)
+4 [JUk1-GH/gpt-promo-scanner](https://github.com/JUk1-GH/gpt-promo-scanner)
+ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71%
+标签: chatgpt,chatgpt-business | ⭐278
+
+5 [cosmicstack-labs/mercury-agent-skills](https://github.com/cosmicstack-labs/mercury-agent-skills)
+A curated registry of reusable Mercury Agent, Open Claw or Hermes Agen
+标签: ai,ai-agents | ⭐102
+
+6 [ChristianJR19/Goblin-Agent](https://github.com/ChristianJR19/Goblin-Agent)
+No description
+标签: AI | ⭐343
+
+7 [zhengkid/AutoTTS](https://github.com/zhengkid/AutoTTS)
+The offical repo for "LLMs Improving LLMs: Agentic Discovery for Test-
+标签: AI | ⭐63
+
+8 [EricXu20266/llm-proxy](https://github.com/EricXu20266/llm-proxy)
+Codex + Claude → DeepSeek or other llm 本地代理 | Agent Protocol Translati
+标签: AI | ⭐26
+
+9 [secureagentics/Adrian](https://github.com/secureagentics/Adrian)
+Open-source runtime security monitoring and control for AI agents.
+标签: AI | ⭐35
+
+10 [huangserva/3DCellForge](https://github.com/huangserva/3DCellForge)
 AI-powered interactive 3D cell generation and exploration studio.
-标签: AI | ⭐1706
-
-5 [raiyanyahya/how-to-train-your-gpt](https://github.com/raiyanyahya/how-to-train-your-gpt)
-Build a modern LLM from scratch. Every line commented.
-标签: attention-mechanism,deep-learning | ⭐1209
-
-6 [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
-AI Agent 中文学习地图 — 从零开始的结构化学习路径，每个阶段有必做练习跟必修阅读。三语对照（繁中/English）。欢迎社区一起贡献、优化内容。
-标签: agentic-ai,ai-agents | ⭐1069
-
-7 [zarazhangrui/beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates)
-A library of HTML slide templates for coding agents
-标签: AI | ⭐1024
-
-8 [lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed)
-TokenSpeed is a speed-of-light LLM inference engine.
-标签: blackwell,deepseek | ⭐976
-
-9 [beenuar/AiSOC](https://github.com/beenuar/AiSOC)
-Open-source AI-powered Security Operations Center
-标签: ai-security,alert-triage | ⭐729
-
-10 [jmerelnyc/Photo-agents](https://github.com/jmerelnyc/Photo-agents)
-Autonomous self-evolving agents with vision-grounded memory
-标签: agent-memory,ai-agents | ⭐662
+标签: AI | ⭐1710
 
 🌐 [Tech/News] 科技热门
-1 [NVIDIA Blackwell新芯片](https://www.nvidia.com)
-标签: 硬件
-2 [OpenAI GPT-5 Rumors](https://openai.com)
-标签: LLM
-3 [Anthropic CWC更新](https://www.anthropic.com)
-标签: Agent
+1 [NVIDIA Blackwell新芯片](https://www.nvidia.com) 标签: 硬件
+2 [OpenAI GPT-5 Rumors](https://openai.com) 标签: LLM
+3 [Anthropic CWC更新](https://www.anthropic.com) 标签: Agent
 
 📰 [AI/Research] 技术博客
-1 [Teaching AI to Reason](https://www.anthropic.com/research)
-标签: AI安全
-2 [Long Context Window](https://arxiv.org)
-标签: 上下文
+1 [Teaching AI to Reason](https://www.anthropic.com/research) 标签: AI安全
+2 [Long Context Window](https://arxiv.org) 标签: 上下文
 
 📈 趋势总结
-• Agent工具持续爆发
-• 推理效率成竞争焦点
-• 本地部署需求增长
+• 新项目持续涌现
+• AI agent 相关项目增长最快
+• 多模态 agent 成为热点
