@@ -5,11 +5,11 @@
 
 1 [strukto-ai/mirage](https://github.com/strukto-ai/mirage)
 A Unified Virtual Filesystem For AI Agents
-标签: agent-sandbox,agent-tools | ⭐2064
+标签: agent-sandbox,agent-tools | ⭐2065
 
 2 [yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts)
 Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景
-标签: ai,chinese-prompts | ⭐1831
+标签: ai,chinese-prompts | ⭐1833
 
 3 [aattaran/deepclaude](https://github.com/aattaran/deepclaude)
 Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any
@@ -17,19 +17,19 @@ Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any
 
 4 [huangserva/3DCellForge](https://github.com/huangserva/3DCellForge)
 AI-powered interactive 3D cell generation and exploration studio.
-标签: AI | ⭐1705
+标签: AI | ⭐1706
 
 5 [raiyanyahya/how-to-train-your-gpt](https://github.com/raiyanyahya/how-to-train-your-gpt)
 Build a modern LLM from scratch. Every line commented. Explained like we are fiv
-标签: attention-mechanism,deep-learning | ⭐1208
+标签: attention-mechanism,deep-learning | ⭐1209
 
 6 [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
-AI Agent 中文学习地图 — 从零开始的结构化学习路径，每个阶段有必做练习跟必修阅读。三語对照（繁中／简中／English）。欢迎社区一起贡献、优化内容。
-标签: agentic-ai,ai-agents | ⭐1068
+AI Agent 中文学习地圖 — 从零开始的結構化学习路徑，每階段有必做練习跟必修閱讀。三語对照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。
+标签: agentic-ai,ai-agents | ⭐1069
 
 7 [zarazhangrui/beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates)
 A library of HTML slide templates designed so any coding agent can pick the righ
-标签: AI | ⭐1022
+标签: AI | ⭐1024
 
 8 [lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed)
 TokenSpeed is a speed-of-light LLM inference engine.
@@ -44,21 +44,16 @@ Autonomous self-evolving agents. Vision-grounded layered memory and self-written
 标签: agent-memory,ai-agents | ⭐662
 
 🌐 [Tech/News] 科技热门
-
 1 [NVIDIA Blackwell新芯片](https://www.nvidia.com)
 标签: 硬件
-
 2 [OpenAI GPT-5 Rumors](https://openai.com)
 标签: LLM
-
 3 [Anthropic CWC更新](https://www.anthropic.com)
 标签: Agent
 
 📰 [AI/Research] 技术博客
-
 1 [Teaching AI to Reason](https://www.anthropic.com/research)
 标签: AI安全
-
 2 [Long Context Window](https://arxiv.org)
 标签: 上下文
 
