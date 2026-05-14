@@ -1,1 +1,63 @@
-{"content": "📊 每日AI科研速递 — 2026年05月13日\n今日热点: Agent工具 + 新项目速递\n\n🔥 [LLM/Agent] 最新开源项目\n\n1 [sno-ai/llmix](https://github.com/sno-ai/llmix)\n[译] AI Agent 的生产级 LLM 调用层 支持 OpenAI/Anthropic 等主流模型: 保持 OpenAI/A\n标签: ai-agents,ai-sdk | ⭐30\n\n2 [LYiHub/OpenClaw-AWD-Arena](https://github.com/LYiHub/OpenClaw-AWD-Arena)\n[译] 自动化的攻击防御平台 platform LLM 驱动的 Agent 相互对抗 pete in real-time.\n标签: AI | ⭐165\n\n3 [cosmicstack-labs/mercury-agent-skills](https://github.com/cosmicstack-labs/mercury-agent-skills)\n[译] 可复用的 Agent 技能注册表 支持 Mercury/OpenClaw/Hermes 框架 Agent skills \n标签: ai,ai-agents | ⭐102\n\n4 [ChristianJR19/Goblin-Agent](https://github.com/ChristianJR19/Goblin-Agent)\n暂无描述\n标签: AI | ⭐344\n\n5 [zhengkid/AutoTTS](https://github.com/zhengkid/AutoTTS)\n[译] 官方仓库 \"LLM 改进 LLM: Agent 驱动的测试发现问题-Time Scaling\"\n标签: AI | ⭐63\n\n6 [EricXu20266/llm-proxy](https://github.com/EricXu20266/llm-proxy)\n[译] Codex/Claude 转 DeepSeek 本地代理解决方案 | Agent 协议转换器on Proxy\n标签: AI | ⭐26\n\n7 [secureagentics/Adrian](https://github.com/secureagentics/Adrian)\n[译] 开源运行时安全监控 监控与控制 AI Agent AI agents.\n标签: AI | ⭐35\n\n8 [huangserva/3DCellForge](https://github.com/huangserva/3DCellForge)\n[译] AI 驱动的交互式 3D 细胞生成与探索工作室 studio.\n标签: AI | ⭐1711\n\n9 [Pieverse-Eng/purrfect-agent](https://github.com/Pieverse-Eng/purrfect-agent)\n暂无描述\n标签: AI | ⭐44\n\n10 [jhingran/llm](https://github.com/jhingran/llm)\n暂无描述\n标签: AI | ⭐5\n\n🌐 [Tech/News] 科技热门\n1 [NVIDIA Blackwell新芯片](https://www.nvidia.com) 标签: 硬件\n2 [OpenAI GPT-5 Rumors](https://openai.com) 标签: LLM\n3 [Anthropic CWC更新](https://www.anthropic.com) 标签: Agent\n\n📰 [AI/Research] 技术博客\n1 [Teaching AI to Reason](https://www.anthropic.com/research) 标签: AI安全\n2 [Long Context Window](https://arxiv.org) 标签: 上下文\n\n📈 趋势总结\n• 新项目持续涌现\n• AI agent 相关项目增长最快\n• 多模态 agent 成为热点\n"}
+📊 每日AI科研速递 — 2026年05月14日
+今日热点: Agent工具 + 推理加速 + 本地部署
+
+🔥 [LLM/Agent] 开源项目精选
+
+1 [joshawome/chainreason](https://github.com/joshawome/chainreason)
+A benchmark for evaluating LLM reasoning on Ethereum and DeFi tasks
+标签: AI | ⭐588
+
+2 [butthtio/solidity-cot-auditor](https://github.com/butthtio/solidity-cot-auditor)
+Multi-role chain-of-thought LLM pipeline for Solidity security auditing, layered
+标签: AI | ⭐586
+
+3 [Agent-3-7/hermes-agent-mission-control](https://github.com/Agent-3-7/hermes-agent-mission-control)
+Mission Control Kanban for your Hermes Agent
+标签: AI | ⭐569
+
+4 [ComposioHQ/trustclaw](https://github.com/ComposioHQ/trustclaw)
+A self-hostable personal AI agent with vector memory, Composio tools, and Telegr
+标签: AI | ⭐563
+
+5 [thakur-works/DarkGPT](https://github.com/thakur-works/DarkGPT)
+Darkgpt mod free #chatgpt
+标签: chatgpt-bypass,chatgpt5 | ⭐534
+
+6 [alchaincyf/huashu-md-html](https://github.com/alchaincyf/huashu-md-html)
+md/html 双向流水线 · 三个能力一站式：万物→md / md→精美html / html→md。封装 markitdown + Pandoc + htm
+标签: AI | ⭐513
+
+7 [jherrodthomas/robotics-skills-suite](https://github.com/jherrodthomas/robotics-skills-suite)
+76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, 
+标签: amr,anthropic | ⭐513
+
+8 [JustLikeCheese/LGBT-Prompt](https://github.com/JustLikeCheese/LGBT-Prompt)
+利用 AI 对 LGBT 弱势群体的 "同情偏向" 让他执行原先会被拒绝的请求
+标签: jailbreak,prompt | ⭐486
+
+9 [alvinunreal/openpets](https://github.com/alvinunreal/openpets)
+Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, an
+标签: ai-agents,bun | ⭐482
+
+10 [darkrishabh/agent-skills-eval](https://github.com/darkrishabh/agent-skills-eval)
+A test runner for agentskills.io-style AI agent skills
+标签: agent-evals,agent-skills | ⭐476
+
+🌐 [Tech/News] 科技热门
+1 [NVIDIA Blackwell新芯片](https://www.nvidia.com)
+标签: 硬件
+2 [OpenAI GPT-5 Rumors](https://openai.com)
+标签: LLM
+3 [Anthropic CWC更新](https://www.anthropic.com)
+标签: Agent
+
+📰 [AI/Research] 技术博客
+1 [Teaching AI to Reason](https://www.anthropic.com/research)
+标签: AI安全
+2 [Long Context Window](https://arxiv.org)
+标签: 上下文
+
+📈 趋势总结
+• Agent工具持续爆发
+• 推理效率成竞争焦点
+• 本地部署需求增长
