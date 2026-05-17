@@ -1,1 +1,63 @@
-测试内容 2026-05-17T12:08:34.105193
+📊 每日AI科研速递 — 2026年05月17日
+今日热点: Agent工具 + 推理加速 + 本地部署
+
+🔥 [LLM/Agent] 开源项目精选
+
+1 [nexu-io/html-anything](https://github.com/nexu-io/html-anything)
+✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 
+标签: agent-skills,agentic | ⭐2500
+
+2 [yetone/native-feel-skill](https://github.com/yetone/native-feel-skill)
+An Agent Skill for designing cross-platform desktop apps that feel native — dist
+标签: AI | ⭐1237
+
+3 [vercel-labs/zero](https://github.com/vercel-labs/zero)
+The programming language for agents
+标签: AI | ⭐1109
+
+4 [simonlin1212/a-stock-data](https://github.com/simonlin1212/a-stock-data)
+A 股全栈数据工具包 — 6层架构 · 15个端点 · 7个数据源 | AI Skill for China A-Share Market Data
+标签: AI | ⭐1009
+
+5 [DenisSergeevitch/agents-best-practices](https://github.com/DenisSergeevitch/agents-best-practices)
+Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.
+标签: agent-skill,agent-skills | ⭐587
+
+6 [JUk1-GH/gpt-promo-scanner](https://github.com/JUk1-GH/gpt-promo-scanner)
+ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT
+标签: chatgpt,chatgpt-business | ⭐505
+
+7 [yaassin12/DeepSeek-V4-Pro-App](https://github.com/yaassin12/DeepSeek-V4-Pro-App)
+DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M to
+标签: agentic-ai,ai-application | ⭐502
+
+8 [sunyouzhi2003/LSFG-Desktop](https://github.com/sunyouzhi2003/LSFG-Desktop)
+Lossless Scaling 2026: Universal Frame Generation LSFG 3. Multi-frame gen: X2, X
+标签: crimson-desert-lsfg,frame-generation | ⭐500
+
+9 [2508965-ship-it/harmonist-orchestral](https://github.com/2508965-ship-it/harmonist-orchestral)
+🚀 Multi-Agent Orchestration Engine 2026 – Build & Deploy AI Swarms with Claude C
+标签: agent-framework,agent-system | ⭐420
+
+10 [BharathKumarSuresh/claude-design-system-hooks](https://github.com/BharathKumarSuresh/claude-design-system-hooks)
+🚀 Ultimate Claude Code AI Design Skills & Hooks Bundle 2026 – Free Install
+标签: claude,claude-ai | ⭐420
+
+🌐 [Tech/News] 科技热门
+1 [NVIDIA Blackwell新芯片](https://www.nvidia.com)
+标签: 硬件
+2 [OpenAI GPT-5 Rumors](https://openai.com)
+标签: LLM
+3 [Anthropic CWC更新](https://www.anthropic.com)
+标签: Agent
+
+📰 [AI/Research] 技术博客
+1 [Teaching AI to Reason](https://www.anthropic.com/research)
+标签: AI安全
+2 [Long Context Window](https://arxiv.org)
+标签: 上下文
+
+📈 趋势总结
+• Agent工具持续爆发
+• 推理效率成竞争焦点
+• 本地部署需求增长
