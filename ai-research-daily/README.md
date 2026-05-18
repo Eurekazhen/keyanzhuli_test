@@ -1,113 +1,95 @@
 📊 每日AI科研速递 — 2026年5月18日
-今日热点: Agent 工具爆发，多Agent编排成主流
+今日热点: Agent 工具 & 反检测浏览器成热点
 
 ---
 
 🔥 Agent 工具
 
-[nexu-io/html-anything](https://github.com/nexu-io/html-anything)
-✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces
-⭐ 2823 | HTML
+[KenKaneki18/CloakBrowser](https://github.com/KenKaneki18/CloakBrowser)
+CloakBrowser: Anti-detect browser download, browser fingerprinting spoofing, multi-accounting tool. Proxy manager, cookie isolation, user-agent switcher
+⭐ 418 | TypeScript
 
 ---
 
-[yaassin12/DeepSeek-V4-Pro-App](https://github.com/yaassin12/DeepSeek-V4-Pro-App)
-DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window
-⭐ 607 | C++
+[deepakness/google-ai-search-optimization](https://github.com/deepakness/google-ai-search-optimization)
+Unofficial Agent Skill based on Google Search guidance for AI Overview
+⭐ 83 | None
 
 ---
 
-[2508965-ship-it/harmonist-orchestral](https://github.com/2508965-ship-it/harmonist-orchestral)
-🚀 Multi-Agent Orchestration Engine 2026 – Build & Deploy AI Swarms with Claude Code
-⭐ 421 | None
+[LiuMengxuan04/shushu-internship-tool](https://github.com/LiuMengxuan04/shushu-internship-tool)
+把岗位描述变项目，把项目变简历，把简历变面试
+⭐ 65 | Python
 
 ---
 
-[mikesheehan54/Claude-Code-Design-AI](https://github.com/mikesheehan54/Claude-Code-Design-AI)
-Claude Design: AI UI/UX architect. Screenshot to React, Figma components, Tailwind CSS generator
-⭐ 404 | TypeScript
+[greatvishal27-rc/AI-Resume_Analyzer](https://github.com/greatvishal27-rc/AI-Resume_Analyzer)
+AI Resume Analyzer
+⭐ 57 | Python
 
 ---
 
-[simonlin1212/TradingAgents-astock](https://github.com/simonlin1212/TradingAgents-astock)
-A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策
-⭐ 320 | Python
+[zhiyingzzhou/renewlet](https://github.com/zhiyingzzhou/renewlet)
+Renewlet 是一个自托管的订阅管理工具。把 SaaS、AI 工具、云服务和开发工具的价格、续费日、预算和提醒放到一起
+⭐ 48 | TypeScript
 
 ---
 
-[agentic-in/elephant-agent](https://github.com/agentic-in/elephant-agent)
-Personal-Model First Self Evolving AI Agent 🐘
-⭐ 283 | Python
-
----
-
-[Callous-0923/agent-study](https://github.com/Callous-0923/agent-study)
-36章AI Agent全栈课程：从ReAct循环到Claude Code逆向、MCP/A2A协议、RAG、DSPy
-⭐ 220 | HTML
+[agent-quality-controls/slopless](https://github.com/agent-quality-controls/slopless)
+Deterministic textlint rules and CLI for catching prose slop in Markdown
+⭐ 42 | HTML
 
 ---
 
 🔥 大模型训练
 
-[chiennv2000/orthrus](https://github.com/chiennv2000/orthrus)
-Fast, lossless LLM inference via dual-view diffusion decoding
-⭐ 278 | Python
-
----
-
 [BasZ4ll/Stable-Diffusion-WebUI](https://github.com/BasZ4ll/Stable-Diffusion-WebUI)
-Stable Diffusion: webui automatic1111 download free, comfyui setup guide, sdxl c
-⭐ 270 | TypeScript
+Stable Diffusion: webui automatic1111 download free, comfyui setup guide
+⭐ 273 | TypeScript
 
 ---
 
-[ahammadmejbah/Awesome-Datasets-Hub](https://github.com/ahammadmejbah/Awesome-Datasets-Hub)
-A curated collection of datasets for Large Language Models (LLMs), covering media
-⭐ 105 | None
+[zimingttkx/QuantumFlow](https://github.com/zimingttkx/QuantumFlow)
+QuantumFlow - Distributed LLM inference scheduling framework with multi-GPU
+⭐ 65 | Python
 
 ---
 
-[gonemedia/aipointer](https://github.com/gonemedia/aipointer)
-The AI cursor companion. Hold a key, ask a question, get an answer
-⭐ 107 | TypeScript
+[DaoyuanLi2816/can-i-finetune-this](https://github.com/DaoyuanLi2816/can-i-finetune-this)
+Estimate whether a Hugging Face model fits and fine-tunes on your local GPU
+⭐ 24 | Python
 
 ---
 
-[matthewjmandel/Olivia](https://github.com/matthewjmandel/Olivia)
-A memory-grounded language model — built from the life of someone who mattered
-⭐ 87 | C#
-
----
-
-[johunsang/semble_rs](https://github.com/johunsang/semble_rs)
-Fast, AI-agent-native code search in Rust — hybrid BM25 + semantic, Tree-sitter
-⭐ 87 | Rust
+[sam-siavoshian/agent-notch](https://github.com/sam-siavoshian/agent-notch)
+Agent Notch — macOS computer-use agent that lives in the notch. Voice interaction
+⭐ 18 | Swift
 
 ---
 
 🔥 创意/有趣
 
-[husu/loom](https://github.com/husu/loom)
-一个写接口文档的AI Agent。支持使用Vibe coding 的方式，编写接口文档
-⭐ 150 | None
+[Yuvan-x/Pneumonia-Detection-With-Explainable-AI](https://github.com/Yuvan-x/Pneumonia-Detection-With-Explainable-AI)
+AI-based medical image classifier that identifies Pneumonia from chest X-rays
+⭐ 52 | Python
 
 ---
 
-[Isoform/yansu-skill](https://github.com/Isoform/yansu-skill)
-Bespoke context, delivered to your AI agent. Yansu observes how you actually work
-⭐ 137 | None
+[AI4MSE/Parallax](https://github.com/AI4MSE/Parallax)
+他山之石，可以攻玉：如何让你的AI Agent更加可靠？How to Make Your AI Agent more reliable
+⭐ 31 | None
 
 ---
 
-[basionwang-bot/HermesPet](https://github.com/basionwang-bot/HermesPet)
-让 AI 住在你 MacBook 的刘海里 · 零依赖开箱即用 · 多引擎并行的桌面 AI 伴侣
-⭐ 99 | Swift
+[kgmkm/novel2hermes_jp](https://github.com/kgmkm/novel2hermes_jp)
+長文に耐える小説を企画/プロッティングするツール
+⭐ 29 | None
 
 ---
 
 📈 趋势总结
-• 多Agent编排爆发：harmonist-orchestral 开创新范式
-• Agent学习资源丰富：agent-study 课程体系完善
-• 垂直场景落地：A股投研框架受关注
-• 桌面AI伴侣：HermesPet 入驻MacBook刘海
-• UI生成Agent：html-anything 获高星
+• 反检测浏览器：CloakBrowser 获高星418
+• Agent求职工具：简历分析、面试准备受关注
+• 订阅管理：renewlet 整合SaaS续费提醒
+• 分布式推理：QuantumFlow 多GPU调度
+• MacBook刘海Agent：agent-notch 创新形态
