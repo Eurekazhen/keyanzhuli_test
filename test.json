@@ -1,63 +1,71 @@
-📊 每日AI科研速递 — 2026年05月17日
-今日热点: Agent工具 + 推理加速 + 本地部署
+📊 每日AI科研速递 — 2026年5月18日
+今日热点: Agent 工具爆发，多Agent编排成主流
 
-🔥 [LLM/Agent] 开源项目精选
+---
 
-1 [nexu-io/html-anything](https://github.com/nexu-io/html-anything)
-✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 
-标签: agent-skills,agentic | ⭐2500
+🔥 Agent 工具
 
-2 [yetone/native-feel-skill](https://github.com/yetone/native-feel-skill)
-An Agent Skill for designing cross-platform desktop apps that feel native — dist
-标签: AI | ⭐1237
+[nexu-io/html-anything](https://github.com/nexu-io/html-anything)
+✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces
+⭐ 2823 | HTML
 
-3 [vercel-labs/zero](https://github.com/vercel-labs/zero)
-The programming language for agents
-标签: AI | ⭐1109
+[yaassin12/DeepSeek-V4-Pro-App](https://github.com/yaassin12/DeepSeek-V4-Pro-App)
+DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window
+⭐ 607 | C++
 
-4 [simonlin1212/a-stock-data](https://github.com/simonlin1212/a-stock-data)
-A 股全栈数据工具包 — 6层架构 · 15个端点 · 7个数据源 | AI Skill for China A-Share Market Data
-标签: AI | ⭐1009
+[2508965-ship-it/harmonist-orchestral](https://github.com/2508965-ship-it/harmonist-orchestral)
+🚀 Multi-Agent Orchestration Engine 2026 – Build & Deploy AI Swarms with Claude Code
+⭐ 421 | None
 
-5 [DenisSergeevitch/agents-best-practices](https://github.com/DenisSergeevitch/agents-best-practices)
-Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.
-标签: agent-skill,agent-skills | ⭐587
+[mikesheehan54/Claude-Code-Design-AI](https://github.com/mikesheehan54/Claude-Code-Design-AI)
+Claude Design: AI UI/UX architect. Screenshot to React, Figma components
+⭐ 404 | TypeScript
 
-6 [JUk1-GH/gpt-promo-scanner](https://github.com/JUk1-GH/gpt-promo-scanner)
-ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT
-标签: chatgpt,chatgpt-business | ⭐505
+[simonlin1212/TradingAgents-astock](https://github.com/simonlin1212/TradingAgents-astock)
+A股多Agent投研框架 — 适配A股数据源
+⭐ 320 | Python
 
-7 [yaassin12/DeepSeek-V4-Pro-App](https://github.com/yaassin12/DeepSeek-V4-Pro-App)
-DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M to
-标签: agentic-ai,ai-application | ⭐502
+[agentic-in/elephant-agent](https://github.com/agentic-in/elephant-agent)
+Personal-Model First Self Evolving AI Agent 🐘
+⭐ 283 | Python
 
-8 [sunyouzhi2003/LSFG-Desktop](https://github.com/sunyouzhi2003/LSFG-Desktop)
-Lossless Scaling 2026: Universal Frame Generation LSFG 3. Multi-frame gen: X2, X
-标签: crimson-desert-lsfg,frame-generation | ⭐500
+[Callous-0923/agent-study](https://github.com/Callous-0923/agent-study)
+36章AI Agent全栈课程：从ReAct循环到Claude Code逆向
+⭐ 220 | HTML
 
-9 [2508965-ship-it/harmonist-orchestral](https://github.com/2508965-ship-it/harmonist-orchestral)
-🚀 Multi-Agent Orchestration Engine 2026 – Build & Deploy AI Swarms with Claude C
-标签: agent-framework,agent-system | ⭐420
+---
 
-10 [BharathKumarSuresh/claude-design-system-hooks](https://github.com/BharathKumarSuresh/claude-design-system-hooks)
-🚀 Ultimate Claude Code AI Design Skills & Hooks Bundle 2026 – Free Install
-标签: claude,claude-ai | ⭐420
+🔥 大模型训练
 
-🌐 [Tech/News] 科技热门
-1 [NVIDIA Blackwell新芯片](https://www.nvidia.com)
-标签: 硬件
-2 [OpenAI GPT-5 Rumors](https://openai.com)
-标签: LLM
-3 [Anthropic CWC更新](https://www.anthropic.com)
-标签: Agent
+[chiennv2000/orthrus](https://github.com/chiennv2000/orthrus)
+Fast, lossless LLM inference via dual-view diffusion decoding
+⭐ 278 | Python
 
-📰 [AI/Research] 技术博客
-1 [Teaching AI to Reason](https://www.anthropic.com/research)
-标签: AI安全
-2 [Long Context Window](https://arxiv.org)
-标签: 上下文
+[BasZ4ll/Stable-Diffusion-WebUI](https://github.com/BasZ4ll/Stable-Diffusion-WebUI)
+Stable Diffusion: webui automatic1111
+⭐ 270 | TypeScript
+
+[ahammadmejbah/Awesome-Datasets-Hub](https://github.com/ahammadmejbah/Awesome-Datasets-Hub)
+A curated collection of datasets for LLMs
+⭐ 105 | None
+
+---
+
+🔥 创意/有趣
+
+[husu/loom](https://github.com/husu/loom)
+一个写接口文档的AI Agent
+⭐ 150 | None
+
+[basionwang-bot/HermesPet](https://github.com/basionwang-bot/HermesPet)
+让 AI 住在 MacBook 刘海里
+⭐ 99 | Swift
+
+---
 
 📈 趋势总结
-• Agent工具持续爆发
-• 推理效率成竞争焦点
-• 本地部署需求增长
+• 多Agent编排爆发：harmonist-orchestral 开创新范式
+• Agent学习资源丰富：agent-study 课程体系完善
+• 垂直场景落地：A股投研框架受关注
+• 桌面AI伴侣：HermesPet 入驻MacBook刘海
+• UI生成Agent：html-anything 获高星
