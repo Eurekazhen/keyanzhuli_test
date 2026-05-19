@@ -3,7 +3,7 @@
 
 ## 🔥 GitHub 开源项目精选
 1. [vercel-labs/zero](https://github.com/vercel-labs/zero)
-   The programming language for agents | ⭐2302
+   The programming language for agents | ⭐2303
 2. [DenisSergeevitch/agents-best-practices](https://github.com/DenisSergeevitch/agents-best-practices)
    Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design. | ⭐816
 3. [Doorman11991/smallcode](https://github.com/Doorman11991/smallcode)
@@ -13,14 +13,25 @@
 5. [agentic-in/elephant-agent](https://github.com/agentic-in/elephant-agent)
    Personal-Model First Self Evolving AI Agent 🐘 | ⭐316
 6. [AbhishekK130804/Claude-Mythos-AI-Anthropic-App](https://github.com/AbhishekK130804/Claude-Mythos-AI-Anthropic-App)
-   Claude pro free Mythos design Opus Cowork  Sonnet AI Anthropic App: download fre | ⭐260
+   Claude pro free Mythos design Opus Cowork  Sonnet AI Anthropic App: download fre | ⭐261
 7. [LiuMengxuan04/shushu-internship-tool](https://github.com/LiuMengxuan04/shushu-internship-tool)
-   把岗位描述变项目，把项目变简历，把简历变面试。 | ⭐166
+   把岗位描述变项目，把项目变简历，把简历变面试。 | ⭐167
 8. [agent-quality-controls/slopless](https://github.com/agent-quality-controls/slopless)
    Deterministic textlint rules and CLI for catching prose slop in Markdown | ⭐150
 
 ## 🤗 Hugging Face 热门模型
-暂无数据
+1. [deepseek-ai/DeepSeek-R1](https://huggingface.co/deepseek-ai/DeepSeek-R1)
+    | ❤️13331
+2. [black-forest-labs/FLUX.1-dev](https://huggingface.co/black-forest-labs/FLUX.1-dev)
+    | ❤️12819
+3. [stabilityai/stable-diffusion-xl-base-1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0)
+    | ❤️7720
+4. [CompVis/stable-diffusion-v1-4](https://huggingface.co/CompVis/stable-diffusion-v1-4)
+    | ❤️7009
+5. [meta-llama/Meta-Llama-3-8B](https://huggingface.co/meta-llama/Meta-Llama-3-8B)
+    | ❤️6535
+6. [hexgrad/Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M)
+    | ❤️6163
 
 ## 📄 arXiv 热门论文
 暂无数据
