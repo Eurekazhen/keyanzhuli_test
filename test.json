@@ -1,1 +1,63 @@
-{"content": "📊 每日AI科研速递 — 2026年5月19日\n今日热点: 反检测浏览器热度上升，Agent学习资源丰富\n\n---\n\n🔥 Agent 工具\n\n[KenKaneki18/CloakBrowser](https://github.com/KenKaneki18/CloakBrowser)\n反检测浏览器下载、浏览器指纹伪造、多账户管理工具。代理管理、Cookie隔离、用户代理切换\n⭐ 460 | TypeScript\n\n[LiuMengxuan04/shushu-internship-tool](https://github.com/LiuMengxuan04/shushu-internship-tool)\n把岗位描述变项目，把项目变简历，把简历变面试\n⭐ 134 | Python\n\n[agent-quality-controls/slopless](https://github.com/agent-quality-controls/slopless)\n检测 Markdown 中冗余文字的确定性规则和 CLI 工具\n⭐ 103 | HTML\n\n[deepakness/google-ai-search-optimization](https://github.com/deepakness/google-ai-search-optimization)\n基于 Google Search 指导的 AI 概述非官方 Agent 技能\n⭐ 87 | None\n\n[zimingttkx/QuantumFlow](https://github.com/zimingttkx/QuantumFlow)\n分布式 LLM 推理调度框架，支持多 GPU\n⭐ 76 | Python\n\n[Doorman11991/smallcode](https://github.com/Doorman11991/smallcode)\n针对小模型优化的 AI 编程代理。4B 参数可达 87% 基准成绩\n⭐ 67 | MAXScript\n\n[p0systems/peezy-cli](https://github.com/p0systems/peezy-cli)\n面向实际项目工作的终端编程代理\n⭐ 60 | TypeScript\n\n[greatvishal27-rc/AI-Resume_Analyzer](https://github.com/greatvishal27-rc/AI-Resume_Analyzer)\nAI 简历分析器\n⭐ 57 | Python\n\n[jjyaoao/Agent-Learning-Hub](https://github.com/jjyaoao/Agent-Learning-Hub)\nAI Agent 学习路线与资料库收集\n⭐ 54 | None\n\n---\n\n🔥 大模型训练\n\n[BasZ4ll/Stable-Diffusion-WebUI](https://github.com/BasZ4ll/Stable-Diffusion-WebUI)\nStable Diffusion WebUI 自动下载、ComfyUI 配置指南\n⭐ 377 | TypeScript\n\n[DaoyuanLi2816/can-i-finetune-this](https://github.com/DaoyuanLi2816/can-i-finetune-this)\n估算 Hugging Face 模型是否能在本地 GPU 上微调\n⭐ 27 | Python\n\n[kaopanboonyuen/SAIE2026](https://github.com/kaopanboonyuen/SAIE2026)\n超级 AI 工程师项目 2026 — 实时 AI 系统和模型优化\n⭐ 21 | Jupyter\n\n[sam-siavoshian/agent-notch](https://github.com/sam-siavoshian/agent-notch)\nmacOS 槽口区域的计算机使用代理，支持语音交互\n⭐ 18 | Swift\n\n[alicankiraz1/Gemma-4-31B-MTP-vLLM-Server](https://github.com/alicankiraz1/Gemma-4-31B-MTP-vLLM-Server)\nGemma 4 31B 生产级 vLLM 服务FastAPI辅助\n⭐ 14 | Python\n\n---\n\n📈 趋势总结\n• 反检测浏览器热度上升：CloakBrowser 获 460 星\n• Agent 学习资源丰富：学习路线、简历工具受关注\n• 小模型 Agent 突破：smallcode 用 4B 参数达 87% 成绩\n• 分布式推理：QuantumFlow 支持多 GPU 调度\n• Mac 槽口 Agent：创新交互形态"}
+📊 每日AI科研速递 — 2026年05月19日
+今日热点: Agent工具 + 推理加速 + 本地部署
+
+🔥 [LLM/Agent] 开源项目精选
+
+1 [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack)
+Minimalistic coding agent written in Rust, optimized for memory footprint and pe
+标签: AI | ⭐724
+
+2 [Doorman11991/smallcode](https://github.com/Doorman11991/smallcode)
+AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
+标签: AI | ⭐508
+
+3 [mikesheehan54/Claude-Code-Design-AI](https://github.com/mikesheehan54/Claude-Code-Design-AI)
+Claude Design: AI UI/UX architect. Screenshot to React, Figma components, Tailwi
+标签: claude-ai,claude-code | ⭐430
+
+4 [Scratch-191/Canva-Pro-Toolkit](https://github.com/Scratch-191/Canva-Pro-Toolkit)
+🚀 Canva Pro Lifetime 2026 – Free Access & AI Design Suite by Mr. Craft
+标签: canva,canva-free | ⭐420
+
+5 [shannhk/hermes-agent-control-room](https://github.com/shannhk/hermes-agent-control-room)
+Control Room-first template for managing Hermes agents from one VPS agent to spe
+标签: agent-control-room,ai-agents | ⭐353
+
+6 [simonlin1212/TradingAgents-astock](https://github.com/simonlin1212/TradingAgents-astock)
+A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-s
+标签: AI | ⭐352
+
+7 [WantongC/journal-adapt-writing-skill](https://github.com/WantongC/journal-adapt-writing-skill)
+Learn any journal's writing conventions from its published papers, then revise y
+标签: academic-writing,claude | ⭐337
+
+8 [agentic-in/elephant-agent](https://github.com/agentic-in/elephant-agent)
+Personal-Model First Self Evolving AI Agent 🐘
+标签: agent,agentic | ⭐316
+
+9 [chiennv2000/orthrus](https://github.com/chiennv2000/orthrus)
+Fast, lossless LLM inference via dual-view diffusion decoding.
+标签: diffusion-language-models,efficient-inference | ⭐311
+
+10 [yliust/Tactile](https://github.com/yliust/Tactile)
+Tactile: an accessibility-first operating layer for agents.
+标签: AI | ⭐308
+
+🌐 [Tech/News] 科技热门
+1 [NVIDIA Blackwell新芯片](https://www.nvidia.com)
+标签: 硬件
+2 [OpenAI GPT-5 Rumors](https://openai.com)
+标签: LLM
+3 [Anthropic CWC更新](https://www.anthropic.com)
+标签: Agent
+
+📰 [AI/Research] 技术博客
+1 [Teaching AI to Reason](https://www.anthropic.com/research)
+标签: AI安全
+2 [Long Context Window](https://arxiv.org)
+标签: 上下文
+
+📈 趋势总结
+• Agent工具持续爆发
+• 推理效率成竞争焦点
+• 本地部署需求增长
